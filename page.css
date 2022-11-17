@@ -1,0 +1,52 @@
+nav a {
+    font-weight: bold;
+}
+
+.centerdoge {
+    margin-left: 25vw;
+    /* text-align: center;
+    align-content: center; */
+    border-radius: 100px;
+    border-width: 10px;
+    border-style: dashed;
+}
+
+body {
+    font-family: "Montserrat";
+}
+
+.bold-ena {
+    font-weight: bold;
+}
+
+.ena-box {
+    background-color: rgb(255, 0, 255);
+    border-radius: 15px;
+    padding: 20px;
+    border-width: 4px;
+    border-style:solid;
+    border-style: dotted;
+}
+
+.pp-ena {
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.top-ena {
+    margin-top: 40px;
+}
+
+.center-ena {
+    text-align: center;
+    align-content: center;
+}
+
+#pink-ena {
+    background-color: pink;
+}
+
+.bottom-ena {
+    margin-bottom: 40px;
+    
+}
